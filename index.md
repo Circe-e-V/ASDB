@@ -32,13 +32,13 @@ Table 1 gives an overview of the questionnaires in this collection, including so
 
 | Questionnaire  | Version | # items  | # scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
-| Altered States of Consciousness Rating Scale  | APZ <br /> OAV <br /> 5D-ASC <br /> 11-ASC <br /> 11-ASC(AXP) | 72 <br /> 66 <br /> 94 <br /> 42 <br /> 22 | 3 (FA) <br /> 3(FA) <br /> 5(FA) <br /> 11(FA)<br /> 11  | Yes/No <br /> VUS <br /> VUS <br /> VUS <br /> VUS |
+| Altered States of Consciousness Rating Scale  | APZ <br /> OAV <br /> 5D-ASC <br /> 11-ASC <br /> 11-ASC(AXP) | 72 <br /> 66 <br /> 94 <br /> 42 <br /> 22 | 3 (FA) <br /> 3(FA) <br /> 5(FA) <br /> 11(FA)<br /> 11  | Yes/No <br /> VAS <br /> VAS <br /> VAS <br /> VAS |
 | Phenomenology of Consciousness Inventory | PCI | 53 | 12+14(FA)  | 7-point |
 | Addiction Research Center Inventory | ARCI long-form <br /> ARCI short-form | 550 <br /> 49 | 38 <br /> 5 | Yes/No <br /> Yes/No |
 | Hallucinogenic Rating Scale | HRS | 126 | 6(FA)  | 5-point |
 | Mystical Experience Questionnaire | MEQ <br />  MEQ30 <br /> MEQ-4 <br /> SOCQ <br /> PEQ | 130 <br /> 30 <br />  4 <br /> 100 <br /> 89 | 8+9  <br />  4(FA) <br /> 4 <br />7 <br /> 8 | 5-point <br /> 5-point <br /> 5-point <br /> 6-point <br /> 6,7,8-point|
 | Psychometric States Inventory | PSI | 48 | 6(FA)  | 4-point |
-| Ego-Dissolution Inventory | EDI | 16 | 2(FA)  | VUS |
+| Ego-Dissolution Inventory | EDI | 16 | 2(FA)  | VAS |
 | Abramson Questionnaire  | AQ |  |  |  |
 | Linton & Lang Questionnaire | LLQ |  |  |  |
 | Near-Death Experience Scale | NDE |  |  |  |
@@ -49,7 +49,7 @@ Table 1 gives an overview of the questionnaires in this collection, including so
 | Watts Connectedness Scale |  |  |  |  |
 | Afterglow Inventory | AGI |  |  |  |
 
-__Table 1__ Overview of the most commong questionnaires and their versions that ase used to assess ASC phenomena in current research
+__Table 1__ Overview of the most commong questionnaires and their versions that ase used to assess ASC phenomena in current research. VAS: Visual Analog Scale; FA: Factor Analysis
 
 Please also find a slide deck of the workshop [The Empirical Study of Altered States of Consciousness](https://www.researchgate.net/publication/382366098_The_Empirical_Study_of_Altered_States_of_Consciousness_ASSC_Tutorial) (2024) given at the ASSC conference by Dr. Timo Torsten Schmidt, Larry Fort and Cyril Costines on ResearchGate. This workshop includes a conceptual overview and additional suggestions and information for empirical research. 
 
@@ -220,10 +220,11 @@ This tool was developed to assess sub-acute effects, as they are commonly report
 The construction and validation was carried out in German and English, and both versions will be available upon publication soon. Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany)
 
 # Further instruments <a name="Further"></a>
-Besides the discussed above, please find some additional information and discussion of different Questionnaire tools in the following references: 
+Besides the discussed above, please find some additional information and discussion of different questionnaire tools in the following references: 
+* Fort et al. (2024) Classification Schemes of Altered States of Consciousness (Preprint)
 * Yeginer, 2000
 * Passie, 2007
-* Schmidt & Majic 
+* Schmidt & Majic (Book chapter - GERMAN)
 * Prugger et al. 2023
 * Dos Santos ...
 * Yaden et al. (2024) https://www.nature.com/articles/s44159-024-00345-6
@@ -331,11 +332,13 @@ Warot D, Danjou P, Payan C, Puech AJ (1997) Sensitivity and specificity to amphe
 Yeginer A (2000) Forschungsinstrumente der Transpersonalen Psychologie. Bibliotheks- und Informationssystem der Universität Oldenburg.<br /> 
 
 # ToDos on this article
-* Check out and add https://www.nature.com/articles/s41598-022-23056-5
+* Check out and add: 
+ https://www.nature.com/articles/s41598-022-23056-5
+  https://journals.sagepub.com/doi/10.1177/02698811231199112
 * Give Reference list a workover: Check completeness & change to  Bibtex Format
-
 * Fill the missing information in Table 1
-* Add informaiton to Watts Connectedness Scale
-* Add information to AGI
+* Add informaiton to
+* Watts Connectedness Scale
+* AGI
 * Add detailed information on different translations to different languages
 * Offer questionnaires for Download as PDF with nice typesetting
