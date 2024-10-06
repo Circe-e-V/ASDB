@@ -1,10 +1,5 @@
 ---
-output:
-  html_document: default
-  pdf_document: default
-title: "Collection of Questionnaires to Assess Altered States Phenomena"
-author: "Dr. Timo Torsten Schmidt for CIRCE e.V."
-date: "Last Update 2024-09-26"
+Collection of Questionnaires
 ---
 
 This is a continuously updated document. We will keep adding information and resources. If you notice any mistakes, please send an e-mail to Timo Torsten Schmidt: timo.t.schmidt at fu-berlin.de
