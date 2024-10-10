@@ -206,7 +206,7 @@ Besides the discussed above, please find some additional information and discuss
 * Passie, 2007
 * Schmidt & Majic (Book chapter - GERMAN)
 * Prugger et al. 2023
-* Dos Santos ...
+* de Deus Pontual A A, Senhorini H G, Corradi- Webster C M, Tófoli L F, Daldegan-Bueno  D (2022): Systematic Review of Psychometric Instruments Used in Research with Psychedelics, Journal of Psychoactive Drugs, DOI: 10.1080/02791072.2022.2079108
 * Yaden et al. (2024) https://www.nature.com/articles/s44159-024-00345-6
 
 In our research we found the following additional tools, which are worth to note. Some of them might be of historical interest and are not in use anymore, others are designed to assess very specific aspects of ASC experiences:
