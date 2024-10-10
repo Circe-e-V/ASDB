@@ -13,26 +13,6 @@ date: "Last Update 2024-09-26"
 
 This is a document, which we continuously update. Last update 2024-10-06 (TTS). We will keep adding information and resources. If you notice any mistakes, please send an e-mail to Timo Torsten Schmidt: timo.t.schmidt at fu-berlin.de
 
-# Table of contents
-1. [Introduction](#introduction)
-2. [Altered States of Consciousness Rating Scales (ASC-R)](#ASC-R)
-3. [Phenomenology of Consciousness Inventory (PCI)](#PCI)
-4. [Addiction Research Center Inventory (ARCI)](#ARCI)
-5. [Hallucinogen Rating Scale (HRS)](#HRS)
-6. [Mystical Experience Questionnaire (MEQ)](#MEQ)
-7. [Psychometric States Inventory (PSI)](#PSI)
-8. [Ego-Dissolution Inventory (EDI)](#EDI)
-9. [Abramson Questionnaire (AQ)](#AQ)
-10. [Linton & Lang Questionnaire (LLQ)](#LLQ)
-11. [Near-Death Experience Scale (NDE)](#NDE)
-12. [Personal Experience Questionnaire (PEQ)](#PEQ)
-13. [Assessment Schedule for Altered States of Consciousness (ASASC)](#ASASC)
-14. [Challenging Experience Questionnaire (CEQ)](#CEQ)
-15. [Watts Connectedness Scale](#WS)
-14. [Afterglow Inventory (AGI)](#AGI)
-15. [Further instruments](#Further)
-
-
 
 # Introduction
 Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
