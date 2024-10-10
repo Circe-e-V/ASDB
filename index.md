@@ -260,6 +260,7 @@ Carhart-Harris RL, Muthukumaraswamy S, Roseman L, Kaelen M, Droog W, Nutt DJ (20
 Corlett PR, Frith CD, Fletcher PC (2009) From drugs to deprivation: a Bayesian framework for understanding models of psychosis. Psychopharmacology (Berl) 206:515–530.<br /> 
 Daniel C, Lovatt A, Mason OJ (2014) Psychotic-like experiences and their cognitive appraisal under short-term sensory deprivation. Front psychiatry 5:106.<br /> 
 Daniel C, Mason OJ (2015) Predicting psychotic-like experiences during sensory deprivation. Biomed Res Int 2015.<br /> 
+de Deus Pontual A A, Senhorini H G, Corradi- Webster C M, Tófoli L F, Daldegan-Bueno  D (2022): Systematic Review of Psychometric Instruments Used in Research with Psychedelics, Journal of Psychoactive Drugs, DOI: 10.1080/02791072.2022.2079108
 Dittrich A (1975) Zusammenstellung eines Fragebogens (APZ) zur Erfassung abnormer psychischer Zustände [Construction of a questionnaire (APZ) for assessing abnormal mental states]. Z Klin Psychol Psychiatr Psychother 23:12–20.<br /> 
 Dittrich A (1985) Ätiologie-unabhängige Strukturen veränderter Wachbewusstseinszustände. Stuttgart: Enke.<br /> 
 Dittrich A (1998) The standardized psychometric assessment of altered states of consciousness (ASCs) in humans. Pharmacopsychiatry 31 Suppl 2:80–84.<br /> 
